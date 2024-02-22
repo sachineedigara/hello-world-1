@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to DevOps Certification training Programme !!! </h1>
-<h2>deploying using docker host  docker host </h2>
+<h2>deploying using dockerr host  docker host </h2>
